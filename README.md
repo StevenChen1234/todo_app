@@ -6,3 +6,4 @@
 4. Sort todos in alphabetical and reverse alphabetical order(UP): click the little 'down' icon
 5. Delete: hit the delete button to delete any todos.
 6. Edit: hit the edit button to edit the completion status for any todos.
+7. refresh the page: hit the refresh button to fetch the 'GET' API and update the todo table.
